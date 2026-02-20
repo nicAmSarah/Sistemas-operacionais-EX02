@@ -1,4 +1,4 @@
-﻿# so: EX02 
+﻿# SO: EX02 
 #### CONTAR A QUANTIDADE DE PALAVRAS SEPARADA POR ;
 >Fazer uma aplicação Java em Eclipse que tenha uma operação que se permita entrar com um
 texto, conforme exemplo abaixo, por Scanner ou JOptionPane, divida o texto em partes, com
